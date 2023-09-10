@@ -1,4 +1,4 @@
-package next;
+package src.test.java.next;
 
 import java.io.File;
 
