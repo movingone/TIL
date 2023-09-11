@@ -4,6 +4,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/책/자바 웹 프로그래밍 Next Step/Development Settings/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/book/자바 웹 프로그래밍 Next Step/application-server/pom.xml" />
       </list>
     </option>
   </component>
