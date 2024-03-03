@@ -10,7 +10,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="TIL" target="17" />
       <module name="web-application-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
