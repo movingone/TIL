@@ -9,8 +9,5 @@
         <module name="TIL" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="TIL" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
