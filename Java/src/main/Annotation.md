@@ -58,7 +58,7 @@ JVM 이 읽는 주석으로서 JDK 5.0부터 사용할 수 있었다, 유용한 
 
 **오버라이드의 내부 구현?**
 
-https://stackoverflow.com/questions/18189980/how-do-annotations-like-override-work-internally-in-java/18202623 `@Override?`
+https://stackoverflow.com/questions/18189980/how-do-annotations-like-override-work-internally-in-java/18202623 
 
 
 <br>

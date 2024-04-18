@@ -4,6 +4,34 @@
 
 오버 라이딩(Overriding) : 상위 클래스가 가지고 있는 메서드를 하위 클래스가 재정의 해서 사용하는 것
 
+오버 라이딩
+
+```java
+class Animal {
+    void makeSound() {
+        System.out.println("Some generic sound");
+    }
+}
+
+class Dog extends Animal {
+    @Override
+    void makeSound() {
+        System.out.println("Woof");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Animal animal = new Animal();
+        animal.makeSound(); // Output: Some generic sound
+
+        Dog dog = new Dog();
+        dog.makeSound(); // Output: Woof
+    }
+}
+
+```
+
 
 오버로딩 특징
 
