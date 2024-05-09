@@ -10,10 +10,7 @@ class Subclass extends Superclass {
     // Attempting to override will result in a compilation error
     // Uncommenting the @Override annotation will cause a compilation error
     // @Override
-    void display() {
-        System.out.println("Display in Subclass.");
-        Integer.valueOf()
-    }
+
 }
 
 public class Main {

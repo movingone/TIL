@@ -64,7 +64,7 @@ null이 왔을때 값이 없어서 null인지 생성한 초기상태여서 null�
 
     Optional은 선택형 값을 캡슐화 하는 클래스로. Car라는 클래스가 있을때 이 클래스를 감싸서 null인지 값이 있는지를 알 수 있다
 
-![img.png](Optional_image/Optional감싸기.png)
+![img.png](image/Optional감싸기.png)
 
 값이 없으면 비어있는 것과 같다 -> (Optional.empty() 상태다)
 

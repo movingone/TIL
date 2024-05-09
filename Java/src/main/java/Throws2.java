@@ -1,4 +1,4 @@
-public class Error {
+public class Throws2 {
     public static void main(String[] args) {
         try {
             method1();
